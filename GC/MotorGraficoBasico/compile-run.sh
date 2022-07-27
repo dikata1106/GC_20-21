@@ -1,0 +1,1 @@
+gcc *.c *.h -lGL -lGLU -lglut -lm && ./a.out
